@@ -20,6 +20,6 @@ describe('MessagesComponent', () => {
   });
 
   it('should create', () => {
-    expect(component).toBeTruthy();
+    TestBed.createComponent(MessagesComponent);
   });
 });

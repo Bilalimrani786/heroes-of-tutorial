@@ -20,6 +20,6 @@ describe('AboutComponent', () => {
   });
 
   it('should create', () => {
-    expect(component).toBeTruthy();
+    TestBed.createComponent(AboutComponent);
   });
 });
