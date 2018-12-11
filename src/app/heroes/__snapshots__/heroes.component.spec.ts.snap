@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeroesComponent should create 1`] = `
+<app-heroes
+  heroService={[Function HeroService]}
+  heroTitle={[Function String]}
+>
+  <h2>
+    
+  </h2><ul
+    class="heroes"
+  >
+    
+  </ul>
+</app-heroes>
+`;
